@@ -1,0 +1,21 @@
+feature,importance
+cat__OnlineSecurity_No internet service,0.45866585
+num__HasInternet,0.10165237
+cat__InternetService_Fiber optic,0.054886494
+cat__Contract_Month-to-month,0.053696092
+cat__InternetService_DSL,0.036341086
+cat__TenureBand_0-12,0.031074546
+cat__TechSupport_No,0.024396963
+cat__PaymentMethod_Electronic check,0.022243368
+cat__Contract_One year,0.022105029
+cat__Contract_Two year,0.019981077
+cat__OnlineSecurity_No,0.018810015
+num__tenure,0.016626664
+cat__InternetService_No,0.016196793
+cat__Partner_Yes,0.015547441
+cat__TechSupport_Yes,0.01258472
+cat__Partner_No,0.011357802
+cat__OnlineSecurity_Yes,0.007593507
+num__SeniorCitizen,0.0064349393
+cat__PhoneService_Yes,0.0036788974
+cat__StreamingMovies_Yes,0.0036308083
